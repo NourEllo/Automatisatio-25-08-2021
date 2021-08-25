@@ -5,4 +5,5 @@ Library    Selenium2Library
 MonPremierCas 
     Open Browser    https://automationstepbystep.com/online-courses/    chrome
     Close Browser
+    Log    good by   
     
